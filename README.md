@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning advanced IT Security
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me ashamacs@gmail.com
+- email me for project collerborations
 
 <!---
 RyanLoneWolf94/RyanLoneWolf94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
