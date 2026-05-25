@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RyanLoneWolf94
-- 👀 I’m interested in front and backend web development, flutter development and web applications, IT security
-- 🌱 I’m currently learning advanced IT Security
-- 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me ashamacs@gmail.com
+- 👀 I’m interested in web applications, E-commerce system, app development and systems design. 
+- 📫 How to reach me ryan@lonewolfdigitech.com
 - email me for project collerborations
 
 <!---
